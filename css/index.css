@@ -5,3 +5,11 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+#choice_buttons {
+    margin-top: 100px;
+    min-height: 340px;
+    background-image: url(../images/divider.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
