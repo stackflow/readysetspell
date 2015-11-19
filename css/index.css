@@ -24,7 +24,8 @@ html, body {
 }
 
 .btn-teachers {
-    margin-top: 50px;
+    margin-top: 70px;
+    margin-right: 50px;
     min-height: 119px;
     min-width: 352px;
     background-image: url(../images/btn-teachers.png);
@@ -33,7 +34,8 @@ html, body {
 }
 
 .btn-students {
-    margin-top: 150px;
+    margin-top: 170px;
+    margin-left: 50px;
     min-height: 107px;
     min-width: 361px;
     background-image: url(../images/btn-students.png);
