@@ -1,4 +1,4 @@
-body {
+.content {
     background-image: url(../images/background.jpg);
     background-attachment: fixed;
     background-position: center bottom;
@@ -6,7 +6,7 @@ body {
     background-size: cover;
 }
 
-#choice_buttons {
+.choice_buttons {
     margin-top: 100px;
     min-height: 340px;
     background-image: url(../images/divider.png);
