@@ -3,6 +3,7 @@ html, body {
 }
 
 .content {
+    height: 100%;
     background-image: url(../images/background.jpg);
     background-attachment: fixed;
     background-position: center bottom;
@@ -12,7 +13,6 @@ html, body {
 
 .choice_buttons {
     margin-top: 100px;
-    height: 100%;
     min-height: 340px;
     background-image: url(../images/divider.png);
     background-repeat: no-repeat;
