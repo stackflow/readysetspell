@@ -22,3 +22,11 @@ html, body {
 .btn-teachers, .btn-students {
     color: rgba(0, 0, 0, 0);
 }
+
+.btn-teachers {
+    min-height: 119px;
+    min-width: 352px;
+    background-image: url(../images/btn-teachers.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
