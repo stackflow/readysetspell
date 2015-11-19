@@ -19,14 +19,24 @@ html, body {
     background-position: center center;
 }
 
-.btn-teachers, .btn-students {
+.btn-teachers, .btn-teachers:hover, .btn-students, .btn-students:hover {
     color: rgba(0, 0, 0, 0);
 }
 
 .btn-teachers {
+    margin-top: 50px;
     min-height: 119px;
     min-width: 352px;
     background-image: url(../images/btn-teachers.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.btn-students {
+    margin-top: 150px;
+    min-height: 107px;
+    min-width: 361px;
+    background-image: url(../images/btn-students.png);
     background-position: center center;
     background-repeat: no-repeat;
 }
